@@ -1,0 +1,5 @@
+O que é responsividade?
+Responsividade é a técnica de adaptar uma página web para vários dispositivos diferentes;
+Ou seja, temos mudanças de CSS baseada na resolução;
+Detectamos o que o usuário  está utilizando, e adaptamos o nosso site a resolução;
+As regras de CSS são as mesmas, porém dentro de um recurso chamado media query;
