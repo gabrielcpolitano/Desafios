@@ -1,6 +1,0 @@
-Primeiro vamos adicionar uma meta tag ao nosso head;
-Ela é:
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-Isso faz com que o conteúdo se adapte com os dispositivos;
-Adicionamos também uma escala de 1:1;
-Vamos ver na prática!

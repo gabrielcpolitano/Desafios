@@ -1,0 +1,3 @@
+CSS - deixa a página web bonita em si.
+
+Não existe página na internet sem o CSS, CSS é opcinal mas é essencial.
