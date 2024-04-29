@@ -1,0 +1,30 @@
+Pista Básica
+-- Começando
+-- O básico
+-- Mergulhando Afundo
+-- Mais seletore e feramentas CSS
+-- Praticando o Basico
+-- Posicionamento
+
+
+
+Pista Avançada 
+-- Background e images
+-- Dimensões, Tamanhos e Unidades
+-- JavaScript e CSS
+-- Responsividade
+-- Estilizando Formulários
+-- Trabalhando com textos e fontes
+
+
+
+Pista Especialista
+-- Flexbox
+-- CSS Grid
+-- Transformações
+-- Transições e Animações
+-- Colocando Aprendizagem a Prova
+-- Sass Introdução 
+
+Curso se basei na trajetorio passo a passo, não pule nada 
+Vai aula por aula
