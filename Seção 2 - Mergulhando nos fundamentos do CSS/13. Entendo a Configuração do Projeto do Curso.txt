@@ -1,0 +1,9 @@
+Esse é o ponte de partida. 
+
+Nas proxima etapa, vamo estilizar a pagina.
+
+Colocando fonte.
+Cor de fundo.
+Minima semantica.
+Cor nos textos.
+...
