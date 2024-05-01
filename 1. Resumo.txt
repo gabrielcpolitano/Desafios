@@ -1,0 +1,33 @@
+
+1. Introdução
+- Curso completo para aprender CSS, abordando desde o básico até o avançado de forma gradual. Voltado para quem está determinado a aprender e conta com professores renomados internacionalmente.
+
+2. O que é CSS
+- CSS é fundamental para a estilização de páginas web, tornando-as visualmente atrativas. É considerado essencial mesmo que seu uso não seja obrigatório.
+
+3. Comunidade de Aprendizagem Online
+- Os alunos são incentivados a participar da comunidade online para apoio e interação durante o curso.
+
+4. História do CSS
+- A evolução do CSS é apresentada desde seu início em 1996 até a versão atualmente em uso.
+
+5. Resumo do Curso
+- O curso é dividido em três trilhas: Básica, Avançada e Especialista, cada uma cobrindo diferentes aspectos do CSS, desde fundamentos básicos até técnicas avançadas como Flexbox, Grid e animações.
+
+6. Escolher Sua Trilha
+- Os alunos podem escolher a trilha que desejam seguir, com a recomendação de seguir todas as aulas na sequência.
+
+7. Pré-requisitos do Curso
+- Conhecimento básico de HTML é necessário para acompanhar o curso com sucesso.
+
+8. Como Maximizar o Aproveitamento do Curso
+- Dicas incluem assistir todos os vídeos, codificar de forma independente, fazer exercícios, depurar erros, fazer perguntas e ajudar outros alunos.
+
+9. Ferramentas Recomendadas
+- Visual Studio Code e Google Chrome são sugeridos para o desenvolvimento e teste dos códigos CSS.
+
+10. Acesso ao Código-Fonte
+- O código-fonte usado no curso é disponibilizado, permitindo aos alunos praticar e revisar conforme necessário.
+
+11. Recursos Úteis e Links
+- Links para grupos de trabalho do CSS no W3C, downloads para Visual Studio Code e Google Chrome são fornecidos para auxiliar no aprendizado e prática.
