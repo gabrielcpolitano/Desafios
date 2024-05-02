@@ -1,13 +1,14 @@
-#visao-geral {
-    background-color: blue;
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-section {
-    background-color: red;
+#visao-geral {
+    background-color: rgb(19, 31, 133);
     color: white;
     font-family: "Roboto";
 }
 
-.selecao-titulo {
-    color: black;
+#planos {
+    background-color: rgb(19, 87, 133);
+    color: white;
 }
