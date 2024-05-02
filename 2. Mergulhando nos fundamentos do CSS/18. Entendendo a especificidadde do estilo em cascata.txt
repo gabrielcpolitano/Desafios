@@ -1,0 +1,10 @@
+São lidos de cima para baixo os elemento CSS.
+
+especificidade CSS
+-- Estilos Inline
+-- IDs
+-- Classes, [atributos], pseudo-classes
+-- Elementos, pseudo-elementos
+
+CSS - folhas de estilos em cascata
+Cascata - significa simplesmente que vários estilos podem ser aplicados ao mesmo elemento.

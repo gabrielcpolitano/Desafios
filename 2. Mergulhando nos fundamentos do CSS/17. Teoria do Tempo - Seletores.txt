@@ -1,0 +1,5 @@
+Seletores 
+-- Elementos => nomeElemento
+-- Classes => .nomeClass
+-- IDs => #nomeID
+-- Universal => *

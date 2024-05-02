@@ -1,5 +1,13 @@
+#visao-geral {
+    background-color: blue;
+}
+
 section {
     background-color: red;
     color: white;
     font-family: "Roboto";
+}
+
+.selecao-titulo {
+    color: black;
 }
