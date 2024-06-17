@@ -12,7 +12,7 @@ Welcome to the Course Tracking System! This web application allows users to regi
 - **Manage Courses**: Increase, decrease, or delete courses with intuitive, icon-based buttons.
 
 ## Demo
-You can check out a demo of the system https://coursetracker.w3spaces-preview.com/index.html.
+You can check out a demo of the system https://coursetracker.w3spaces.com
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -53,4 +53,4 @@ I am always open to suggestions and collaborations! If you have any improvement 
 ## Contact
 If you have any questions, feel free to reach out:
 - GitHub: [gabrielcpolitano](https://github.com/gabrielcpolitano)
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [gabrielcpolitano](https://www.linkedin.com/in/gabriel-politano-800a64278/)
