@@ -1,16 +1,59 @@
 
-# Plano de Estudos 📚✨
+# Course Tracking System
 
-Deus me ajuda a ter paciência, para terminar os cursos. 🙏
+## Introduction
+Welcome to the Course Tracking System! This web application allows users to register their courses, track their progress, and manage their study activities effectively. The system is built using HTML, CSS, and JavaScript and includes features such as dark/light mode toggling and local storage for data persistence.
 
-Deus, me ajude a lembrar que advogado, engenheiro... levam 5 anos só para concluir a faculdade. 👨‍⚖️👷‍♂️
+## Features
+- **Add Courses**: Register new courses with total lessons and lessons watched.
+- **Track Progress**: View progress for each course with interactive progress bars.
+- **Dark/Light Mode**: Easily switch between light and dark mode for a better visual experience.
+- **Local Storage**: Automatically save data locally, so progress is not lost even after reloading the page.
+- **Manage Courses**: Increase, decrease, or delete courses with intuitive, icon-based buttons.
 
-Deus, me ajuda a resistir e a focar nos cursos sem desistir por 10 meses, para me formar como Desenvolvedor Front-End. 💻🛠️
+## Demo
+You can check out a demo of the system [here](#) (insert demo link if available).
 
-3 meses de estudos para cada etapa, Deus me ajuda a lembrar que 3 meses passam rápido, não precisa ficar ansiosioso ⏳
+## Getting Started
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-## Anotações ✍️
-- **anotações-caderno**: Para ilustrações, explicações e coisas complexas que preciso lembrar.
-- **anotações-computador**: Para documentar minha trajetória e manter o progresso.
+### Prerequisites
+Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Safari).
 
-Vamos nessa! 🚀🔥
+### Installation
+1. Clone the repository:
+   \`\`\`bash
+   git clone https://github.com/gabrielcpolitano/Venda_Carros.git
+   \`\`\`
+2. Navigate to the project directory:
+   \`\`\`bash
+   cd Venda_Carros
+   \`\`\`
+3. Open \`index.html\` in your web browser to view the application.
+
+## Usage
+1. Enter the course name, total lessons, and lessons watched in the form fields.
+2. Click "Add Course" to register the course and see the progress bar.
+3. Use the "Increase" and "Decrease" buttons to update the number of lessons watched.
+4. Click "Delete" to remove a course from the list.
+5. Toggle between dark and light mode using the "Toggle Dark/Light Mode" button.
+
+## Contributing
+I am always open to suggestions and collaborations! If you have any improvement ideas or want to contribute to the project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (\`git checkout -b feature/YourFeature\`).
+3. Make your changes and commit them (\`git commit -m 'Add some feature'\`).
+4. Push to the branch (\`git push origin feature/YourFeature\`).
+5. Open a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- Thanks to the developers of Font Awesome for the icons used in this project.
+- Thanks to the open-source community for their valuable resources and contributions.
+
+## Contact
+If you have any questions, feel free to reach out:
+- GitHub: [gabrielcpolitano](https://github.com/gabrielcpolitano)
+- LinkedIn: [Your LinkedIn Profile](#)

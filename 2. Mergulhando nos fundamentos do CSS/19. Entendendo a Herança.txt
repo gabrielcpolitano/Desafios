@@ -1,1 +1,0 @@
-Elemento filhos endão atributos do elemento pai.
