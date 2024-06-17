@@ -12,7 +12,7 @@ Welcome to the Course Tracking System! This web application allows users to regi
 - **Manage Courses**: Increase, decrease, or delete courses with intuitive, icon-based buttons.
 
 ## Demo
-You can check out a demo of the system [here](#) (insert demo link if available).
+You can check out a demo of the system [https://coursetracker.w3spaces-preview.com/index.html)](#).
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -23,7 +23,7 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Safari
 ### Installation
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/gabrielcpolitano/Venda_Carros.git
+   git clone https://github.com/gabrielcpolitano/CourseTracker.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
@@ -45,9 +45,6 @@ I am always open to suggestions and collaborations! If you have any improvement 
 3. Make your changes and commit them (\`git commit -m 'Add some feature'\`).
 4. Push to the branch (\`git push origin feature/YourFeature\`).
 5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Thanks to the developers of Font Awesome for the icons used in this project.
