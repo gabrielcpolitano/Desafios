@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 90vh;
+  background-color: #181A1B;
+  color: white;
+  font-family:monospace;
+}
+
+.minha-classe {
+  color: rgb(255, 183, 0);
+  font-size: 20px;
+  margin-right: 10px; /* Espaçamento entre as divs */
+  padding: 10px; /* Espaçamento interno para visualização */
+  border: 1px solid rgb(255, 255, 255); /* Borda para visualização */
+  margin-top: 20px;
+}
+
+.novo-estilo {
+  color: green;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.outro-estilo {
+  display: inline-block;
+  font-size: 25px;
+  font-style: italic;
+  margin-right: 50px;
+}
+
+.bloco-3 {
+  margin: 20px 0 0 0 ;
+}
+
+.espaçamento {
+  width: 530px;
+  margin: 0 auto;
+  padding: 20px;;
+
+}
+
+button {
+  top: 150px;
+  position: relative;
+  background-color: #4CAF50; /* Verde */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px; /* Bordas arredondadas */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Transição suave */
+}
+
+#meuBotao, #outroBotao {
+  background-color: #4CAF50; /* Verde */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px; /* Bordas arredondadas */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Transição suave */
+}
