@@ -7,17 +7,17 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
     <link rel="stylesheet" href="styles.css">
-    <title>Desafio 35</title>
+    <title>Desafio 33</title>
 </head>
 <body>
-    <div class="elemento-pai">
-        <div class="imagem-container">
-            <img id="minhaImagem" src="image.png" alt="Imagem">
-        </div>
-        <div id="textoSobreImagem" class="texto-sobre-imagem">🌍hello world🌍</div>
-        <button id="meuBotao" onclick="alterarSrc()">Alterar Imagem</button>
-        <button id="outroBotao" onclick="criarTextoSobreImagem()">Altere Texto</button>
-    </div>
-    <script src="script.js"></script>
+  <div id="container">
+    <p id="elementToChange">Altere esse elemento apertando em <span>Alterar Texto</span></p>
+    <p id="elementToRemove">Delete esse elemento apertando em <span>Remover Elemento🗑️</span></p>
+    <button class="meuBotao" onclick="changeText()">Alterar Texto</button>
+    <button class="meuBotao remover" onclick="removeElement()">Remover Elemento🗑️</button>
+    
+</div>
+  
+  <script src="script.js"></script>
 </body>
 </html>

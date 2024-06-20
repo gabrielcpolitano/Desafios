@@ -1,0 +1,60 @@
+* {
+  background-size: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: repeating-linear-gradient(45deg, rgb(48, 1, 238), black 15%, rgb(155, 228, 155) 20%);
+  
+  color: white
+  
+}
+
+p {
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.meuBotao {
+  background-color: #4CAF50; /* Verde */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px; /* Bordas arredondadas */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Transição suave */
+}
+
+.meuBotao:hover {
+
+  transform: translateY(-2px); /* Eleva o botão ligeiramente */
+}
+
+.meuBotao:active {
+  transform: translateY(2px); /* Pressiona o botão para baixo */
+}
+
+.remover {
+  background-color: red;
+}
+
+span {
+  color: #80ccff;
+}
+
