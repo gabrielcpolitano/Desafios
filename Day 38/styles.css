@@ -1,0 +1,37 @@
+body {
+  display: flex; /* Adicionado para habilitar o flexbox */
+  flex-direction: column;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  height: 100vh;
+  margin: 0;
+  background-image: repeating-linear-gradient(45deg, rgb(28, 133, 162), black 15%, rgb(34, 153, 251) 20%);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.progress-container {
+  width: 80%;
+  background-color: #f3f3f3;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  width: 0%;
+  height: 30px;
+  background-color: #4caf50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  border-radius: 25px;
+}
+
+button {
+  background-color: #e30303; /* Verde */
+  color: white; /* Texto branco */
+  padding: 10px 20px; /* Espaçamento interno */
+  border-radius: 5px; /* Bordas arredondadas */
+  cursor: pointer; /* Cursor em forma de mãozinha */
+}
