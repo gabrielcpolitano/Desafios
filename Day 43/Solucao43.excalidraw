@@ -447,8 +447,8 @@
     },
     {
       "type": "text",
-      "version": 33,
-      "versionNonce": 1534189721,
+      "version": 35,
+      "versionNonce": 181930823,
       "isDeleted": false,
       "id": "BKQlkRlzsUbUiNZsuKmbu",
       "fillStyle": "solid",
@@ -468,7 +468,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274805,
+      "updated": 1720055912380,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -479,12 +479,12 @@
       "containerId": null,
       "originalText": "1",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 21,
-      "versionNonce": 898421111,
+      "version": 23,
+      "versionNonce": 922120361,
       "isDeleted": false,
       "id": "1SJyTmOR13XiYx4iNIuJ1",
       "fillStyle": "solid",
@@ -504,7 +504,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274806,
+      "updated": 1720055912383,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -515,12 +515,12 @@
       "containerId": null,
       "originalText": "2",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 32,
-      "versionNonce": 1400661369,
+      "version": 34,
+      "versionNonce": 778373735,
       "isDeleted": false,
       "id": "vKwppKJ1yhLfuTEX0K2Wl",
       "fillStyle": "solid",
@@ -540,7 +540,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274807,
+      "updated": 1720055912385,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -551,12 +551,12 @@
       "containerId": null,
       "originalText": "3",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 76,
-      "versionNonce": 2097253015,
+      "version": 78,
+      "versionNonce": 504656777,
       "isDeleted": false,
       "id": "gYJTDYGM4L9nZs0B0oTNH",
       "fillStyle": "solid",
@@ -576,7 +576,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274808,
+      "updated": 1720055912386,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -587,12 +587,12 @@
       "containerId": null,
       "originalText": "4",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 26,
-      "versionNonce": 1973636697,
+      "version": 28,
+      "versionNonce": 1380263303,
       "isDeleted": false,
       "id": "MybMWUV4fHIRi0BQzRV5D",
       "fillStyle": "solid",
@@ -612,7 +612,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274810,
+      "updated": 1720055912387,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -623,12 +623,12 @@
       "containerId": null,
       "originalText": "5",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 149,
-      "versionNonce": 599924663,
+      "version": 151,
+      "versionNonce": 1009719913,
       "isDeleted": false,
       "id": "vrw0GIptWcXCmWu2lul_n",
       "fillStyle": "solid",
@@ -648,7 +648,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274811,
+      "updated": 1720055912388,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -659,12 +659,12 @@
       "containerId": null,
       "originalText": "6",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 206,
-      "versionNonce": 146414393,
+      "version": 208,
+      "versionNonce": 901045415,
       "isDeleted": false,
       "id": "l84TuL4SNFgw29gn9nT8d",
       "fillStyle": "solid",
@@ -684,7 +684,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274818,
+      "updated": 1720055912397,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -699,8 +699,8 @@
     },
     {
       "type": "text",
-      "version": 286,
-      "versionNonce": 200478935,
+      "version": 288,
+      "versionNonce": 1376904521,
       "isDeleted": false,
       "id": "6TipewQhsgdKklBkeu50a",
       "fillStyle": "solid",
@@ -720,7 +720,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274820,
+      "updated": 1720055912398,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -731,12 +731,12 @@
       "containerId": null,
       "originalText": "Para que serve o SWITCH?",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 44,
-      "versionNonce": 757353497,
+      "version": 46,
+      "versionNonce": 2086711239,
       "isDeleted": false,
       "id": "gJDMm4BRMhcGP3rwB4vDx",
       "fillStyle": "solid",
@@ -756,7 +756,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274824,
+      "updated": 1720055912401,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -804,8 +804,8 @@
     },
     {
       "type": "text",
-      "version": 66,
-      "versionNonce": 1596513783,
+      "version": 68,
+      "versionNonce": 2065191977,
       "isDeleted": false,
       "id": "P1x171nmWcoq8_88H4UF3",
       "fillStyle": "solid",
@@ -825,7 +825,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274829,
+      "updated": 1720055912405,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -836,7 +836,7 @@
       "containerId": null,
       "originalText": "Como fazer um código em JavaScript que utilize a estrutura SWITCH para verificar o valor de uma variável e imprimir uma mensagem diferente para cada valor de 1 a 3, com uma mensagem padrão para outros valores?",
       "lineHeight": 1.2,
-      "baseline": 251
+      "baseline": 250
     },
     {
       "type": "image",
@@ -873,8 +873,8 @@
     },
     {
       "type": "text",
-      "version": 156,
-      "versionNonce": 718627065,
+      "version": 158,
+      "versionNonce": 543497959,
       "isDeleted": false,
       "id": "S2qRcZlAdUP0Xw6aP5zsl",
       "fillStyle": "solid",
@@ -894,7 +894,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274830,
+      "updated": 1720055912406,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -909,8 +909,8 @@
     },
     {
       "type": "text",
-      "version": 64,
-      "versionNonce": 543688471,
+      "version": 66,
+      "versionNonce": 1529734921,
       "isDeleted": false,
       "id": "Qz1ukiTJiP8mrMtCF_a6e",
       "fillStyle": "solid",
@@ -930,7 +930,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274832,
+      "updated": 1720055912406,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -941,12 +941,12 @@
       "containerId": null,
       "originalText": "<",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 134,
-      "versionNonce": 2136005081,
+      "version": 136,
+      "versionNonce": 609135111,
       "isDeleted": false,
       "id": "C-OwRbo-2rt2qVSIZnZnU",
       "fillStyle": "solid",
@@ -966,7 +966,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274834,
+      "updated": 1720055912408,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -977,12 +977,12 @@
       "containerId": null,
       "originalText": "<=",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 77,
-      "versionNonce": 2116357175,
+      "version": 79,
+      "versionNonce": 214834665,
       "isDeleted": false,
       "id": "1zKvVAPe1Y9ZXOpvVPqdw",
       "fillStyle": "solid",
@@ -1002,7 +1002,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274836,
+      "updated": 1720055912408,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1013,12 +1013,12 @@
       "containerId": null,
       "originalText": ">",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 123,
-      "versionNonce": 732575417,
+      "version": 125,
+      "versionNonce": 85578023,
       "isDeleted": false,
       "id": "2nEC2oDBrrV6dkzTr4xLV",
       "fillStyle": "solid",
@@ -1038,7 +1038,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274837,
+      "updated": 1720055912409,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1049,12 +1049,12 @@
       "containerId": null,
       "originalText": ">=",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 103,
-      "versionNonce": 1682206039,
+      "version": 105,
+      "versionNonce": 1325693129,
       "isDeleted": false,
       "id": "xBwKXglH0Fhq_c2i4XBk3",
       "fillStyle": "solid",
@@ -1074,7 +1074,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274839,
+      "updated": 1720055912410,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1085,12 +1085,12 @@
       "containerId": null,
       "originalText": "===",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 111,
-      "versionNonce": 1116010393,
+      "version": 113,
+      "versionNonce": 1815286855,
       "isDeleted": false,
       "id": "az0ZcaQFXietDod_VXoGm",
       "fillStyle": "solid",
@@ -1110,7 +1110,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274840,
+      "updated": 1720055912411,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1121,7 +1121,7 @@
       "containerId": null,
       "originalText": "Não é possivel usar esses operadores",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "image",
@@ -1158,8 +1158,8 @@
     },
     {
       "type": "text",
-      "version": 43,
-      "versionNonce": 1310370423,
+      "version": 45,
+      "versionNonce": 1936488361,
       "isDeleted": false,
       "id": "dIit3NXfvbdQ9l8b8y1JN",
       "fillStyle": "solid",
@@ -1179,7 +1179,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274842,
+      "updated": 1720055912412,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1194,8 +1194,8 @@
     },
     {
       "type": "text",
-      "version": 53,
-      "versionNonce": 907320441,
+      "version": 55,
+      "versionNonce": 561443687,
       "isDeleted": false,
       "id": "vQkRcxavfj_nJYB2_Q05v",
       "fillStyle": "solid",
@@ -1215,7 +1215,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719952274844,
+      "updated": 1720055912412,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1226,7 +1226,7 @@
       "containerId": null,
       "originalText": "Como fazer um código em JavaScript que utilize a estrutura SWITCH para verificar se o valor de uma variável é 1, 2 ou 3, e imprimir uma única mensagem se o valor corresponder a qualquer um desses números?",
       "lineHeight": 1.2,
-      "baseline": 251
+      "baseline": 250
     },
     {
       "type": "image",
