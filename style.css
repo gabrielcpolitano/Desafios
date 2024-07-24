@@ -1,0 +1,159 @@
+@font-face {
+  font-family: speed;
+  src: url('/serpentine_sans_icg_boldoblique.ttf') format('opentype');
+}
+
+body {
+  font-family: 'speed', sans-serif;
+  background: url('images/nfsu2_background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  margin: 40px 0;
+  padding: 0;
+  height: 70px;
+}
+
+.hidden {
+  display: none;
+}
+
+#entrance-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+img {
+  position: absolute;
+  width: 500px;
+  top: 10px;
+}
+button {
+  display: block;
+
+}
+#enter-button {
+  font-family: 'speed', sans-serif;
+  font-size: 2em;
+  padding: 20px 40px;
+  background-color: #646464;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
+
+#enter-button:hover {
+  border: 5px solid rgb(255, 255, 255);
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  background: rgba(111, 107, 107, 0.6);
+  margin: auto;
+  border-radius: 50px;
+  max-width: 1000px;
+  border: 5px solid rgb(170, 170, 170);
+}
+
+header h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  margin-top: 20px;
+  text-align: left;
+}
+
+section h2 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+section ul li {
+  margin-bottom: 10px;
+}
+
+section p {
+  font-size: 2.2em;
+  margin-top: 20px;
+}
+
+section audio {
+  display: block;
+  margin: 10px 0;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 0.8em;
+}
+
+/* Estilos Responsivos */
+@media (max-width: 600px) {
+  header h1 {
+      font-size: 2em;
+  }
+
+  nav ul li {
+      display: block;
+      margin: 10px 0;
+  }
+
+  .container {
+      padding: 10px;
+  }
+
+  section h2 {
+      font-size: 1.5em;
+  }
+
+  section p {
+      font-size: 1em;
+  }
+}
+
+#playlist-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#playlist-container button {
+  background-color: #ff4500;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1em;
+  border-radius: 5px;
+}
+
+#playlist-container button:hover {
+  background-color: #e03e00;
+}
+
+/* Aplicando cursor personalizado globalmente */
+* {
+  cursor: url('images/PC_Cursor.png'), auto;
+}
